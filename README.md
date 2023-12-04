@@ -27,6 +27,11 @@ To do this, we define a common format, ``visual sentences", in which we can repr
 <div align="center">
   <img src="images/complex_task_3.jpg"/>
 </div>
+
+<div align="center">
+  <img src="images/misc.jpg"/>
+</div>
+
 <div align="center">
   <img src="images/Guess_2.jpg"/>
 </div>
