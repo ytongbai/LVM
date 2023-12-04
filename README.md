@@ -13,25 +13,25 @@ To do this, we define a common format, ``visual sentences", in which we can repr
 ## Visual Sentence
 
 <div align="center">
-  <img src="images/visual_sentences.JPEG"/>
+  <img src="images/visual_sentences.jpg"/>
 </div>
 
 
 ## What Can It Do? 
 <div align="center">
-  <img src="images/videos.JPEG"/>
+  <img src="images/videos.jpg"/>
 </div>
 <div align="center">
-  <img src="images/complex_task_2.JPEG"/>
+  <img src="images/complex_task_2.jpg"/>
 </div>
 <div align="center">
-  <img src="images/complex_task_3.JPEG"/>
+  <img src="images/complex_task_3.jpg"/>
 </div>
 <div align="center">
-  <img src="images/Guess_2.JPEG"/>
+  <img src="images/Guess_2.jpg"/>
 </div>
 <div align="center">
-  <img src="images/raven_2.JPEG"/>
+  <img src="images/raven_2.jpg"/>
 </div>
 
 
