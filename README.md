@@ -20,7 +20,7 @@ To do this, we define a common format, ``visual sentences", in which we can repr
 
 
 ## Key Differences from the Original Paper Version
-1. We are currently releasing the 7B model (previously 3B). Additional model size variants will be available soon.
+1. We are currently releasing the 7B model (previously 3B). Additional model size variants will be available later.
 2. Deep filtering (including quality filters, deduplication, and known CSAM content removal) has been applied to the LAION dataset, reducing the dataset size from 1.5B to 1.2B images.
 
 3. The tokenizer has been improved for better performance.
