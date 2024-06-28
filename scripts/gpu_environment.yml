@@ -1,4 +1,4 @@
-name: EasyLM
+name: LVM
 channels:
     - conda-forge
 dependencies:
